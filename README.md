@@ -1,4 +1,4 @@
-Det här projektet är en liten automantiserad maskininlärningsservice i python.
+Det här projektet är en liten automatiserad maskininlärningsservice i python.
 Den skapar en databas och tränar en maskininlärningsalgoritm på den. Databasen uppdateras och växer sedan automatiskt, varvid nya modeller tränas allt eftersom databasen växer.
 
 **database_utils.py** skapar en databas innehållande heltal och en beteckning för om talet är udda eller jämnt. Databasen sparas med namnet data.db
